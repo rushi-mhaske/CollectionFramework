@@ -17,6 +17,8 @@ public class Main {
         System.out.println(arraylist.contains("Mahesh"));
         System.out.println(arraylist.removeAll(arraylist));
         System.out.println(arraylist.size());
+        System.out.println(arraylist.add("Ram"));
+        System.out.println(arraylist.contains("Ram"));
 
     }
 }
